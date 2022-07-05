@@ -1,10 +1,13 @@
 # actuallyautomated-ubuntu #
+
 Automated Ubuntu server installs via flash drive
+
 **Status:** In development
 
 ---
 
-> **MIT License**
+> **MIT LICENSE**
+>
 > Copyright (c) 2022 Max Haney
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
