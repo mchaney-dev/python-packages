@@ -1,7 +1,7 @@
 # python-packages #
 A collection of packages written in Python, free for anyone to use/fork/etc
 
-## directory ##
+### directory ###
 - [actuallyautomated-ubuntu](./actuallyautomated-ubuntu) - Automated Ubuntu server installs via flash drive
 
   **Status:** In development
