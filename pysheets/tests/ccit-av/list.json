@@ -1,0 +1,338 @@
+{
+    "ASC": {
+        "118": null,
+        "300": null,
+        "301": null,
+        "302": null,
+        "306": null,
+        "313": null,
+        "315": null,
+        "316": null
+    },
+    "Brackett": {
+        "100": null,
+        "111": null,
+        "113": null,
+        "114": null,
+        "120": null,
+        "121": null,
+        "122": null,
+        "131": null,
+        "211": null,
+        "212": null,
+        "213": null,
+        "214": null,	
+        "220": null,	
+        "224": null,	
+        "233": null,	
+        "235": null,
+        "322": null,
+        "438": null
+    },
+    "Business": {
+        "G16": null,
+        "G19": null,
+        "G23": null,	
+        "G24": null,
+        "G26": null,
+        "G29": null,
+        "G30": null,
+        "110": null,
+        "127": null,
+        "129": null,
+        "131": null,
+        "133": null,
+        "135": null,
+        "201": null,
+        "203": null,
+        "207": null,
+        "208": null,
+        "216": null,
+        "225": null,
+        "227": null,
+        "229": null
+    },
+    "Brooks": {
+        "205": null,
+        "206": null
+    },
+    "Cooper": {
+        "204": null,
+        "309": null,
+        "416": null
+    },
+    "Daniel": {
+        "100": null,
+        "104": null,
+        "106": null,
+        "108": null,
+        "201": null,
+        "203": null,
+        "204": null,
+        "205": null,
+        "206": null,
+        "207": null,
+        "208": null,
+        "209": null,
+        "210": null,
+        "211": null,
+        "213": null,
+        "214": null,
+        "216": null,
+        "217": null,
+        "218": null,
+        "301": null,
+        "303": null,
+        "307": null,
+        "308": null,
+        "309": null,
+        "310": null,
+        "311": null,
+        "312": null,
+        "313": null,
+        "314": null,
+        "315": null,
+        "401": null,
+        "403": null,
+        "404": null,
+        "405": null,
+        "406": null,
+        "407": null,
+        "408": null,
+        "411": null,
+        "412": null,
+        "413": null,
+        "414": null,
+        "415": null
+    },
+    "Dillard": {
+        "200": null,
+        "201": null,
+        "202": null
+    },
+    "Earle": {
+        "100": null,
+        "107": null,
+        "124": null
+    },
+    "Edwards": {
+        "201": null,
+        "301": null,
+        "302": null,
+        "303": null,
+        "304": null,
+        "305": null,
+        "308": null,
+        "310": null
+    },
+    "Freeman": {
+        "G78": null,
+        "129": null,
+        "138": null
+    },
+    "Godfrey": {
+        "202": null,
+        "205": null
+    },
+    "Hardin": {
+        "100": null,
+        "101": null,
+        "201": null,
+        "228": null,
+        "232": null,
+        "233": null,
+        "235": null
+    },
+    "HAS": {
+        "101": null,
+        "315": null,
+        "317": null
+    },
+    "Holtz": {
+        "100": null
+    },
+    "Hunter": {
+        "100": null,
+        "158": null,
+        "470": null
+    },
+    "Jordan": {
+        "G33": null,
+        "250": null
+    },
+    "Kinard": {
+        "G01": null,
+        "101": null,
+        "116": null,
+        "201": null,
+        "223": null,
+        "301": null
+    },
+    "Lee": {
+        "100": null,
+        "111": null,
+        "126": null,
+        "129": null,
+        "172": null,
+        "250": null,
+        "301": null,
+        "318": null
+    },
+    "Lehot": {
+        "134": null,
+        "135": null,
+        "138": null,
+        "231": null,
+        "246": null,
+        "254": null,
+        "257": null,
+        "268": null,
+        "274": null,
+        "G22": null
+    },
+    "Lever": {
+        "G14": null
+    },
+    "Life Science": {
+        "G26": null
+    },
+    "Long": {
+        "123": null,
+        "207": null,
+        "216": null,
+        "220": null,
+        "222": null,
+        "224": null,
+        "228": null,
+        "229": null
+    },
+    "Lowry": {
+        "100": null,
+        "115": null,
+        "201": null,
+        "215": null,
+        "217": null,
+        "219": null,
+        "301": null,
+        "309": null
+    },
+    "Martin": {
+        "E004": null,
+        "E005": null,
+        "E305": null,
+        "M001": null,
+        "M101": null,
+        "M102": null,
+        "M103": null,
+        "M104": null,
+        "M105": null,
+        "M201": null,
+        "M202": null,
+        "M203": null,
+        "M204": null,
+        "M205": null,
+        "M301": null,
+        "M302": null,
+        "M307": null
+    },
+    "McAdams": {
+        "107": null,
+        "114": null,
+        "143": null,
+        "230": null
+    },
+    "Newman": {
+        "104": null
+    },
+    "Olin": {
+        "200": null,
+        "203": null
+    },
+    "Poole": {
+        "174": null,
+        "A102": null,
+        "A103": null,
+        "A104": null,
+        "A105": null,
+        "A106": null,
+        "A202": null,
+        "A204": null,
+        "A205": null,
+        "A206": null,
+        "B112": null,
+        "C119": null,
+        "C127": null,
+        "C227": null,
+        "E142": null,
+        "E144": null,
+        "E145": null,
+        "E146": null,
+        "E147": null,
+        "E257": null,
+        "F150": null,
+        "F151": null
+    },
+    "Rhodes": {
+        "302": null,
+        "422": null,
+        "522": null
+    },
+    "Rhodes Annex": {
+        "109": null,
+        "111": null,
+        "201": null
+    },
+    "Riggs": {
+        "219": null,
+        "223": null,
+        "226": null,
+        "227": null,
+        "300": null,
+        "301": null,
+        "305": null,
+        "307": null
+    },
+    "Sirrine": {
+        "G12": null,
+        "102": null,
+        "106": null,
+        "110": null,
+        "114": null,
+        "118": null,
+        "128": null,
+        "204": null,
+        "208": null,
+        "212": null,
+        "216": null,
+        "234": null,
+        "250": null,
+        "270": null,
+        "302": null,
+        "306": null,
+        "310": null,
+        "316": null,
+        "332": null,
+        "382": null,
+        "390": null,
+        "430": null
+    },
+    "Tillman": {
+        "103": null,
+        "106": null,
+        "108": null,
+        "206": null,
+        "218": null,
+        "314": null,
+        "315": null,
+        "317": null,
+        "319": null,
+        "320": null,
+        "324": null
+    },
+    "Vickery": {
+        "100": null
+    },
+    "Strom": {
+        "100": null
+    }
+}
