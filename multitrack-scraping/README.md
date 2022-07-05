@@ -1,14 +1,14 @@
 # multitrack-scraping #
-![alt text][logo]
-
-[logo]: placeholder "Multi-track drifting!"
+![Multi-track drifting!](https://i.imgur.com/ij8LXNP.png)
 
 Web scraping utility featuring queued jobs and scheduling, multiple simultaneous instances, and more
+
 **Status:** In development
 
 ---
 
-> **MIT License**
+> **MIT LICENSE**
+>
 > Copyright (c) 2022 Max Haney
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
