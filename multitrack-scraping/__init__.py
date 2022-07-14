@@ -1,1 +1,0 @@
-from .core.classes.conductor import Conductor as mtscraping

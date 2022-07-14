@@ -19,6 +19,7 @@ import time
 all_instances = []
 gc.enable()
 
+
 class ErrorHandler:
     def __init__(self):
         self.PROTECTED_VAR = UserWarning()
@@ -60,9 +61,6 @@ class Scraper(ErrorHandler):
             self.attributes.update({'queue': self.queue.list})
                 
         __new_object__()
-        
-    def __del__(self):
-        print(str(self) + ' deleted')
         
     def __protect_vars__(self, *args):
         name = ['instance', 'index', 'status']
